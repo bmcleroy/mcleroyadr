@@ -58,11 +58,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "McLeroy Dispute Resolution",
+        "meta_descr": "Bart McLeroy, mediator and arbitrator with real estate and commercial expertise in the greater Dallas / Fort Worth area.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x974.jpg"
       },
       "components": [
         {
